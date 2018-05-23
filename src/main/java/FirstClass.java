@@ -6,5 +6,8 @@ public class FirstClass {
         System.out.println("Hello World");
 
         FirstLogicClass.logicHere();
+        FirstLogicClass.logicHere();
+        FirstLogicClass.logicHere();
+        FirstLogicClass.logicHere();
     }
 }

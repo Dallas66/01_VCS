@@ -4,6 +4,6 @@ public class FirstLogicClass {
 
         System.out.println("Some logic");
 
-        System.out.println("Another logic");
+        System.out.println("Another logic try to conflict here");
     }
 }

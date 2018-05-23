@@ -9,5 +9,8 @@ public class FirstClass {
         FirstLogicClass.logicHere();
         FirstLogicClass.logicHere();
         FirstLogicClass.logicHere();
+        FirstLogicClass.logicHere();
+        FirstLogicClass.logicHere();
+        FirstLogicClass.logicHere();
     }
 }

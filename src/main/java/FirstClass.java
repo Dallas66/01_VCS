@@ -4,5 +4,7 @@ public class FirstClass {
 
 
         System.out.println("Hello World");
+
+        FirstLogicClass.logicHere();
     }
 }

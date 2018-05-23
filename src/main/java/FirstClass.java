@@ -4,5 +4,7 @@ public class FirstClass {
 
 
         System.out.println("there will be an error when merging branches dev and feature");
+
+        FirstLogicClass.logicHere();
     }
 }
